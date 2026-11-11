@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/utilities.css' layer(utilities);
+
+:root {
+  --font-family: 'Inter', Arial, sans-serif;
+  --text-md: 16px;
+  --text-sm: 14px;
+  --line-height-text: 24px;
+  --font-medium: 500;
+  --font-regular: 400;
+}
+
+[data-theme='light'] {
+  --text-color: #000000;
+  --stroke-color: rgb(0 0 0 / 50%);
+  --surface-color: rgb(0 0 0 / 5%);
+  --surface-color-hover: rgb(0 0 0 / 2%);
+  --highlight-color: rgb(0 0 0 / 10%);
+}
+
+[data-theme='dark'] {
+  --text-color: #ffffff;
+  --stroke-color: rgb(255 255 255 / 50%);
+  --surface-color: rgb(255 255 255 / 10%);
+  --surface-color-hover: rgb(255 255 255 / 5%);
+  --highlight-color: rgb(255 255 255 / 20%);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  font-size: var(--text-md);
+  line-height: var(--line-height-text);
+  font-weight: var(--font-medium);
+}
