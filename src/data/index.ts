@@ -26,8 +26,8 @@ export const links: LinkData[] = [
   { title: 'Conheça meu curso', url: null },
 ]
 export const socialLinks: SocialLinkData[] = [
-  { title: 'GitHub', icon: github, url: null },
-  { title: 'Instagram', icon: instagram, url: null },
+  { title: 'GitHub', icon: github, url: 'https://github.com/Arthurdias256' },
+  { title: 'Instagram', icon: instagram, url: 'https://www.instagram.com/arthurd_009/' },
   { title: 'YouTube', icon: youtube, url: null },
   { title: 'LinkedIn', icon: linkedin, url: null },
 ]
