@@ -29,7 +29,7 @@ export const socialLinks: SocialLinkData[] = [
   { title: 'GitHub', icon: github, url: 'https://github.com/Arthurdias256' },
   { title: 'Instagram', icon: instagram, url: 'https://www.instagram.com/arthurd_009/' },
   { title: 'YouTube', icon: youtube, url: null },
-  { title: 'LinkedIn', icon: linkedin, url: null },
+  { title: 'LinkedIn', icon: linkedin, url: 'https://www.linkedin.com/in/francisco-arthur-dias-da-silva-ba68a41a2/' },
 ]
 import avatar from '../assets/avatar.png'
 import avatarLight from '../assets/avatar-light.png'
