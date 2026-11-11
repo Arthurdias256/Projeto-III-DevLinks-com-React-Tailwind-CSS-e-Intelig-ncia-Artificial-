@@ -9,7 +9,7 @@ Página responsiva de perfil e links, desenvolvida com React, TypeScript e Vite 
 - Imagens de fundo e avatares diferentes para cada tema.
 - Botões de links e ícones de redes sociais gerados a partir de dados tipados.
 
-> **Pendente:** os destinos dos quatro botões e do ícone de YouTube ainda não foram informados. Por isso, eles aparecem na interface, mas não abrem páginas. O nome `@seu.perfil` também é provisório.
+> **Pendente:** os destinos dos quatro botões e do ícone de YouTube ainda não foram informados. Por isso, eles aparecem na interface, mas não abrem páginas.
 
 ## Tecnologias
 

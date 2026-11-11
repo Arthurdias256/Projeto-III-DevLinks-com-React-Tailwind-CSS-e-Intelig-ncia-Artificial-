@@ -14,7 +14,7 @@ export type SocialLinkData = LinkData & { icon: string }
 
 // URLs não constam nos SVGs; preencha os destinos reais quando disponíveis.
 export const profile: ProfileData = {
-  username: '@seu.perfil',
+  username: 'Arthur Dias',
   avatar,
   avatarLight,
   avatarAlt: 'Foto de perfil',

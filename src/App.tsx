@@ -26,7 +26,7 @@ function App() {
         </nav>
       )}
       <SocialLinks links={socialLinks} />
-      <footer>Feito com ♥ pela/por</footer>
+      <footer>Feito com ♥ por Arthur Dias</footer>
       </div>
     </main>
   )
